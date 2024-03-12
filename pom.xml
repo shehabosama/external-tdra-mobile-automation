@@ -107,8 +107,6 @@
                     </suiteXmlFiles>
                     <!--suppress UnresolvedMavenProperty -->
                     <argLine>-javaagent:${com.browserstack:browserstack-java-sdk:jar}</argLine>
-                    <forkCount>0</forkCount>
-                    <reuseForks>false</reuseForks>
                 </configuration>
             </plugin>
             <plugin>
