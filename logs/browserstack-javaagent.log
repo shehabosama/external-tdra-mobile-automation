@@ -1,0 +1,389 @@
+12:17:25.968 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 4.13.0
+12:17:25.972 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 8.3.0
+12:17:26.177 [main] DEBUG c.b.config.BrowserStackConfig - Cli Config passed - {basedir=D\:\\TDRA\\TDRA Automation\\external-tdra-mobile-automation, idea.version=2023.1.3, user.dir=D\:\\TDRA\\TDRA Automation\\external-tdra-mobile-automation, localrepository=C\:\\Users\\Behwar\\.m2\\repository}
+12:17:26.179 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : D:\TDRA\TDRA Automation\external-tdra-mobile-automation\browserstack.yml
+12:17:26.233 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+12:17:26.596 [main] INFO  c.browserstack.BrowserStackJavaAgent - Using app: [bs://sample.app]
+12:17:26.596 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to testng
+12:17:31.604 [main] INFO  c.browserstack.BrowserStackJavaAgent - Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+12:17:41.843 [main] INFO  c.browserstack.BrowserStackJavaAgent - Starting BrowserStack Local......
+12:18:11.849 [main] INFO  com.browserstack.LocalFactory - BrowserStack Local Started Successfully.
+12:18:12.417 [Thread-0] INFO  c.browserstack.utils.LogReportingAPI - Visit https://observability.browserstack.com/builds/ednmnvvysp4cjpovjs4tlhvihvucwhluglk8qbuv to view build report, insights, and many more debugging information all at one place!
+
+12:18:19.722 [Thread-0] INFO  c.browserstack.utils.UtilityMethods - View build on BrowserStack dashboard: https://app-automate.browserstack.com/dashboard/v2/builds/588f72bfb6b24de6db04ddf1e63df6e18c4a1a49
+12:18:19.723 [Thread-0] INFO  c.b.config.BrowserStackConfig - INFO
+12:18:40.631 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 4.13.0
+12:18:40.639 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 8.3.0
+12:18:40.866 [main] DEBUG c.b.config.BrowserStackConfig - Cli Config passed - {basedir=D\:\\TDRA\\TDRA Automation\\external-tdra-mobile-automation, idea.version=2023.1.3, user.dir=D\:\\TDRA\\TDRA Automation\\external-tdra-mobile-automation, localrepository=C\:\\Users\\Behwar\\.m2\\repository}
+12:18:40.869 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : D:\TDRA\TDRA Automation\external-tdra-mobile-automation\browserstack.yml
+12:18:40.933 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+12:18:41.315 [main] INFO  c.browserstack.BrowserStackJavaAgent - Using app: [bs://sample.app]
+12:18:41.315 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to testng
+12:18:45.737 [main] INFO  c.browserstack.BrowserStackJavaAgent - Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+12:18:48.787 [main] INFO  c.browserstack.BrowserStackJavaAgent - Starting BrowserStack Local......
+12:18:58.256 [main] INFO  com.browserstack.LocalFactory - BrowserStack Local Started Successfully.
+12:18:58.826 [Thread-0] INFO  c.browserstack.utils.LogReportingAPI - Visit https://observability.browserstack.com/builds/n1lkjiiwzkguiklkdonrfwzrifgvcukeqxioxmym to view build report, insights, and many more debugging information all at one place!
+
+12:19:04.370 [Thread-0] INFO  c.browserstack.utils.UtilityMethods - View build on BrowserStack dashboard: https://app-automate.browserstack.com/dashboard/v2/builds/b074f57ebc681236a8548f59470848dd5c999bda
+12:19:04.370 [Thread-0] INFO  c.b.config.BrowserStackConfig - INFO
+12:21:12.494 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 4.13.0
+12:21:14.006 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 8.3.0
+12:21:14.217 [main] DEBUG c.b.config.BrowserStackConfig - Cli Config passed - {basedir=D\:\\TDRA\\TDRA Automation\\external-tdra-mobile-automation, idea.version=2023.1.3, user.dir=D\:\\TDRA\\TDRA Automation\\external-tdra-mobile-automation, localrepository=C\:\\Users\\Behwar\\.m2\\repository}
+12:21:14.218 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : D:\TDRA\TDRA Automation\external-tdra-mobile-automation\browserstack.yml
+12:21:14.272 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+12:21:14.633 [main] INFO  c.browserstack.BrowserStackJavaAgent - Using app: [bs://sample.app]
+12:21:14.633 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to testng
+12:21:19.138 [main] INFO  c.browserstack.BrowserStackJavaAgent - Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+12:21:22.336 [main] INFO  c.browserstack.BrowserStackJavaAgent - Starting BrowserStack Local......
+12:21:30.762 [main] INFO  com.browserstack.LocalFactory - BrowserStack Local Started Successfully.
+12:21:31.570 [Thread-0] INFO  c.browserstack.utils.LogReportingAPI - Visit https://observability.browserstack.com/builds/zts7lhtcyu1voqco4yd0vnvbuwjx76bn9ndcdcr3 to view build report, insights, and many more debugging information all at one place!
+
+12:22:46.240 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 4.13.0
+12:22:46.341 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 8.3.0
+12:22:46.583 [main] DEBUG c.b.config.BrowserStackConfig - Cli Config passed - {basedir=D\:\\TDRA\\TDRA Automation\\external-tdra-mobile-automation, idea.version=2023.1.3, user.dir=D\:\\TDRA\\TDRA Automation\\external-tdra-mobile-automation, localrepository=C\:\\Users\\Behwar\\.m2\\repository}
+12:22:46.586 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : D:\TDRA\TDRA Automation\external-tdra-mobile-automation\browserstack.yml
+12:22:46.663 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+12:22:47.074 [main] INFO  c.browserstack.BrowserStackJavaAgent - Using app: [bs://sample.app]
+12:22:47.074 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to testng
+12:22:52.137 [main] INFO  c.browserstack.BrowserStackJavaAgent - Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+12:22:55.613 [main] INFO  c.browserstack.BrowserStackJavaAgent - Starting BrowserStack Local......
+12:23:04.471 [main] INFO  com.browserstack.LocalFactory - BrowserStack Local Started Successfully.
+12:23:05.021 [Thread-0] INFO  c.browserstack.utils.LogReportingAPI - Visit https://observability.browserstack.com/builds/bly39tney4q6pkkntoxcrvymvf9n4fmpd34hnicc to view build report, insights, and many more debugging information all at one place!
+
+12:23:10.720 [Thread-0] INFO  c.browserstack.utils.UtilityMethods - View build on BrowserStack dashboard: https://app-automate.browserstack.com/dashboard/v2/builds/218b7f386e8b028d30b78706dc65b621f9369208
+12:23:10.721 [Thread-0] INFO  c.b.config.BrowserStackConfig - INFO
+12:25:16.188 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 4.13.0
+12:25:16.298 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 8.3.0
+12:25:16.561 [main] DEBUG c.b.config.BrowserStackConfig - Cli Config passed - {basedir=D\:\\TDRA\\TDRA Automation\\external-tdra-mobile-automation, idea.version=2023.1.3, user.dir=D\:\\TDRA\\TDRA Automation\\external-tdra-mobile-automation, localrepository=C\:\\Users\\Behwar\\.m2\\repository}
+12:25:16.563 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : D:\TDRA\TDRA Automation\external-tdra-mobile-automation\browserstack.yml
+12:25:16.625 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+12:25:16.989 [main] INFO  c.browserstack.BrowserStackJavaAgent - Using app: [bs://sample.app]
+12:25:16.989 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to testng
+12:25:21.490 [main] INFO  c.browserstack.BrowserStackJavaAgent - Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+12:25:24.952 [main] INFO  c.browserstack.BrowserStackJavaAgent - Starting BrowserStack Local......
+12:25:34.863 [main] INFO  com.browserstack.LocalFactory - BrowserStack Local Started Successfully.
+12:25:42.840 [Thread-0] INFO  c.browserstack.utils.LogReportingAPI - Visit https://observability.browserstack.com/builds/jbngpyjxdgxn0oswb2t0dyzgynqcculbf3vv73ek to view build report, insights, and many more debugging information all at one place!
+
+12:25:48.826 [Thread-0] INFO  c.browserstack.utils.UtilityMethods - View build on BrowserStack dashboard: https://app-automate.browserstack.com/dashboard/v2/builds/c7048a5826b25497009e31d2913f22d6a82c022c
+12:25:48.826 [Thread-0] INFO  c.b.config.BrowserStackConfig - INFO
+12:26:57.738 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 4.13.0
+12:26:57.742 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 8.3.0
+12:26:58.007 [main] DEBUG c.b.config.BrowserStackConfig - Cli Config passed - {basedir=D\:\\TDRA\\TDRA Automation\\external-tdra-mobile-automation, idea.version=2023.1.3, user.dir=D\:\\TDRA\\TDRA Automation\\external-tdra-mobile-automation, localrepository=C\:\\Users\\Behwar\\.m2\\repository}
+12:26:58.009 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : D:\TDRA\TDRA Automation\external-tdra-mobile-automation\browserstack.yml
+12:26:58.078 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+12:26:58.479 [main] INFO  c.browserstack.BrowserStackJavaAgent - Using app: [bs://sample.app]
+12:26:58.479 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to testng
+12:27:03.240 [main] INFO  c.browserstack.BrowserStackJavaAgent - Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+12:27:07.421 [main] INFO  c.browserstack.BrowserStackJavaAgent - Starting BrowserStack Local......
+12:27:16.815 [main] INFO  com.browserstack.LocalFactory - BrowserStack Local Started Successfully.
+12:28:31.258 [Thread-0] INFO  c.browserstack.utils.LogReportingAPI - Visit https://observability.browserstack.com/builds/aluuhpa1nyfbwibpi2fl6fdxm1fjdqrct12l3jcw to view build report, insights, and many more debugging information all at one place!
+
+12:28:38.071 [Thread-0] INFO  c.browserstack.utils.UtilityMethods - View build on BrowserStack dashboard: https://app-automate.browserstack.com/dashboard/v2/builds/b104feeed3d8f9c05d182167d7e6b2c2120244a5
+12:28:38.071 [Thread-0] INFO  c.b.config.BrowserStackConfig - INFO
+10:26:27.383 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 4.13.0
+10:26:27.396 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 8.3.0
+10:26:27.772 [main] DEBUG c.b.config.BrowserStackConfig - Cli Config passed - {basedir=D\:\\busniss\\external-tdra-mobile-automation, idea.version=2022.2.2, user.dir=D\:\\busniss\\external-tdra-mobile-automation, localrepository=C\:\\Users\\DELL\\.m2\\repository}
+10:26:27.774 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : D:\busniss\external-tdra-mobile-automation\browserstack.yml
+10:26:27.894 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+10:26:27.902 [main] INFO  c.b.config.BrowserStackConfig - Few SDK features were not activated as platforms object was not defined
+10:26:28.522 [main] INFO  c.browserstack.BrowserStackJavaAgent - Using app: [bs://fa395e54be9343e7e4de17921194a91c37ed3513]
+10:26:28.522 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to testng
+10:26:32.651 [main] INFO  c.browserstack.BrowserStackJavaAgent - Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+10:26:40.782 [main] INFO  c.browserstack.BrowserStackJavaAgent - Starting BrowserStack Local......
+10:26:49.539 [main] INFO  com.browserstack.LocalFactory - BrowserStack Local Started Successfully.
+10:27:31.769 [Thread-0] INFO  c.browserstack.utils.LogReportingAPI - Visit https://observability.browserstack.com/builds/prvg4nbo0wrtcc9kwkyuck3b9njl03k1kpatybk6 to view build report, insights, and many more debugging information all at one place!
+
+10:27:37.119 [Thread-0] INFO  c.browserstack.utils.UtilityMethods - View build on BrowserStack dashboard: https://app-automate.browserstack.com/dashboard/v2/builds/61ee858a96a3c4d68c40803669020555f2e6ea73
+10:27:37.119 [Thread-0] INFO  c.b.config.BrowserStackConfig - INFO
+10:31:22.785 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 4.13.0
+10:31:22.794 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 8.3.0
+10:31:23.071 [main] DEBUG c.b.config.BrowserStackConfig - Cli Config passed - {basedir=D\:\\busniss\\external-tdra-mobile-automation, idea.version=2022.2.2, user.dir=D\:\\busniss\\external-tdra-mobile-automation, localrepository=C\:\\Users\\DELL\\.m2\\repository}
+10:31:23.073 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : D:\busniss\external-tdra-mobile-automation\browserstack.yml
+10:31:23.141 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+10:31:23.147 [main] INFO  c.b.config.BrowserStackConfig - Few SDK features were not activated as platforms object was not defined
+10:31:23.552 [main] INFO  c.browserstack.BrowserStackJavaAgent - Using app: [bs://fa395e54be9343e7e4de17921194a91c37ed3513]
+10:31:23.552 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to testng
+10:31:27.182 [main] INFO  c.browserstack.BrowserStackJavaAgent - Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+10:31:28.508 [main] INFO  c.browserstack.BrowserStackJavaAgent - Starting BrowserStack Local......
+10:31:35.904 [main] INFO  com.browserstack.LocalFactory - BrowserStack Local Started Successfully.
+10:32:15.123 [Thread-0] INFO  c.browserstack.utils.LogReportingAPI - Visit https://observability.browserstack.com/builds/5iymesrijtbfp5oiwpfqzrqifkmo6gteqtwxgjvg to view build report, insights, and many more debugging information all at one place!
+
+10:32:20.331 [Thread-0] INFO  c.browserstack.utils.UtilityMethods - View build on BrowserStack dashboard: https://app-automate.browserstack.com/dashboard/v2/builds/56567692d17ab8da97197bef0e899e963ad508b7
+10:32:20.331 [Thread-0] INFO  c.b.config.BrowserStackConfig - INFO
+12:40:19.643 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 4.13.0
+12:40:19.650 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 8.3.0
+12:40:20.342 [main] DEBUG c.b.config.BrowserStackConfig - Cli Config passed - {basedir=D\:\\busniss\\external-tdra-mobile-automation, user.dir=D\:\\busniss\\external-tdra-mobile-automation, localrepository=C\:\\Users\\DELL\\.m2\\repository}
+12:40:20.344 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : D:\busniss\external-tdra-mobile-automation\browserstack.yml
+12:40:20.489 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+12:40:20.500 [main] INFO  c.b.config.BrowserStackConfig - Few SDK features were not activated as platforms object was not defined
+12:40:22.873 [main] INFO  c.browserstack.BrowserStackJavaAgent - Using app: [bs://fa395e54be9343e7e4de17921194a91c37ed3513]
+12:40:22.873 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to testng
+12:40:27.280 [main] INFO  c.browserstack.BrowserStackJavaAgent - Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+12:40:35.377 [main] INFO  c.browserstack.BrowserStackJavaAgent - Starting BrowserStack Local......
+12:40:43.395 [main] INFO  com.browserstack.LocalFactory - BrowserStack Local Started Successfully.
+12:41:27.392 [Thread-1] INFO  c.browserstack.utils.LogReportingAPI - Visit https://observability.browserstack.com/builds/we96synlth2yxjkiw8cc5fhonooswlkrqhj9q2ww to view build report, insights, and many more debugging information all at one place!
+
+12:41:32.568 [Thread-1] INFO  c.browserstack.utils.UtilityMethods - View build on BrowserStack dashboard: https://app-automate.browserstack.com/dashboard/v2/builds/2bedf1b1d2b7ca40ec4954c659245a4193ca0a51
+12:41:32.569 [Thread-1] INFO  c.b.config.BrowserStackConfig - INFO
+08:42:40.471 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 4.13.0
+08:42:40.479 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 8.3.0
+08:42:40.753 [main] DEBUG c.b.config.BrowserStackConfig - Cli Config passed - {basedir=D\:\\busniss\\external-tdra-mobile-automation, idea.version=2022.2.2, user.dir=D\:\\busniss\\external-tdra-mobile-automation, localrepository=C\:\\Users\\DELL\\.m2\\repository}
+08:42:40.754 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : D:\busniss\external-tdra-mobile-automation\browserstack.yml
+08:42:40.846 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+08:42:40.853 [main] INFO  c.b.config.BrowserStackConfig - Few SDK features were not activated as platforms object was not defined
+08:42:41.255 [main] INFO  c.browserstack.BrowserStackJavaAgent - Using app: [bs://sample.app]
+08:42:41.255 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to testng
+08:42:46.019 [main] INFO  c.browserstack.BrowserStackJavaAgent - Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+08:42:47.458 [main] INFO  c.browserstack.BrowserStackJavaAgent - Starting BrowserStack Local......
+08:42:55.473 [main] INFO  com.browserstack.LocalFactory - BrowserStack Local Started Successfully.
+08:43:52.136 [Thread-0] INFO  c.browserstack.utils.LogReportingAPI - Visit https://observability.browserstack.com/builds/ckgfctociqa2ccoqutdj9pzsizzj9sxrun98srat to view build report, insights, and many more debugging information all at one place!
+
+08:43:57.445 [Thread-0] INFO  c.browserstack.utils.UtilityMethods - View build on BrowserStack dashboard: https://app-automate.browserstack.com/dashboard/v2/builds/04da195d8b58652d5e4d5993d3a0ed63f9a46b51
+08:43:57.445 [Thread-0] INFO  c.b.config.BrowserStackConfig - INFO
+08:44:26.002 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 4.13.0
+08:44:26.015 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 8.3.0
+08:44:26.309 [main] DEBUG c.b.config.BrowserStackConfig - Cli Config passed - {basedir=D\:\\busniss\\external-tdra-mobile-automation, idea.version=2022.2.2, user.dir=D\:\\busniss\\external-tdra-mobile-automation, localrepository=C\:\\Users\\DELL\\.m2\\repository}
+08:44:26.311 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : D:\busniss\external-tdra-mobile-automation\browserstack.yml
+08:44:26.387 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+08:44:26.396 [main] INFO  c.b.config.BrowserStackConfig - Few SDK features were not activated as platforms object was not defined
+08:44:26.837 [main] INFO  c.browserstack.BrowserStackJavaAgent - Using app: [bs://sample.app]
+08:44:26.837 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to testng
+08:44:30.483 [main] INFO  c.browserstack.BrowserStackJavaAgent - Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+08:44:31.748 [main] INFO  c.browserstack.BrowserStackJavaAgent - Starting BrowserStack Local......
+08:44:39.822 [main] INFO  com.browserstack.LocalFactory - BrowserStack Local Started Successfully.
+08:45:36.706 [Thread-0] INFO  c.browserstack.utils.LogReportingAPI - Visit https://observability.browserstack.com/builds/taoop0fn0b2er9npydy2lpcobdog47xhofxwtzz1 to view build report, insights, and many more debugging information all at one place!
+
+08:45:41.767 [Thread-0] INFO  c.browserstack.utils.UtilityMethods - View build on BrowserStack dashboard: https://app-automate.browserstack.com/dashboard/v2/builds/dc51e0fab5bc7a0410d094fece8249a3642a9687
+08:45:41.767 [Thread-0] INFO  c.b.config.BrowserStackConfig - INFO
+11:41:17.771 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 4.13.0
+11:41:17.777 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 8.3.0
+11:41:18.167 [main] DEBUG c.b.config.BrowserStackConfig - Cli Config passed - {basedir=D\:\\busniss\\external-tdra-mobile-automation, idea.version=2022.2.2, user.dir=D\:\\busniss\\external-tdra-mobile-automation, localrepository=C\:\\Users\\DELL\\.m2\\repository}
+11:41:18.170 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : D:\busniss\external-tdra-mobile-automation\browserstack.yml
+11:41:18.278 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+11:41:18.290 [main] INFO  c.b.config.BrowserStackConfig - Few SDK features were not activated as platforms object was not defined
+11:41:18.712 [main] INFO  c.browserstack.BrowserStackJavaAgent - Using app: [bs://fa395e54be9343e7e4de17921194a91c37ed3513]
+11:41:18.712 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to testing
+11:41:22.279 [main] WARN  c.b.config.BrowserStackConfig - Test Observability could not be enabled because framework detected is testing. We currently support frameworks testng, cucumber-testng & serenity
+11:41:23.047 [main] INFO  c.browserstack.BrowserStackJavaAgent - Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+11:41:24.310 [main] INFO  c.browserstack.BrowserStackJavaAgent - Starting BrowserStack Local......
+11:41:31.908 [main] INFO  com.browserstack.LocalFactory - BrowserStack Local Started Successfully.
+11:42:13.662 [Thread-0] INFO  c.browserstack.utils.UtilityMethods - View build on BrowserStack dashboard: https://app-automate.browserstack.com/dashboard/v2/builds/f32bf6889db3d3a70f87d6ab5a3b8381b61c1dec
+11:42:13.662 [Thread-0] INFO  c.b.config.BrowserStackConfig - INFO
+11:42:33.158 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 4.13.0
+11:42:33.166 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 8.3.0
+11:42:33.466 [main] DEBUG c.b.config.BrowserStackConfig - Cli Config passed - {basedir=D\:\\busniss\\external-tdra-mobile-automation, idea.version=2022.2.2, user.dir=D\:\\busniss\\external-tdra-mobile-automation, localrepository=C\:\\Users\\DELL\\.m2\\repository}
+11:42:33.468 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : D:\busniss\external-tdra-mobile-automation\browserstack.yml
+11:42:33.536 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+11:42:33.542 [main] INFO  c.b.config.BrowserStackConfig - Few SDK features were not activated as platforms object was not defined
+11:42:33.924 [main] INFO  c.browserstack.BrowserStackJavaAgent - Using app: [bs://sample.app]
+11:42:33.924 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to testng
+11:42:37.540 [main] INFO  c.browserstack.BrowserStackJavaAgent - Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+11:42:39.011 [main] INFO  c.browserstack.BrowserStackJavaAgent - Starting BrowserStack Local......
+11:42:46.765 [main] INFO  com.browserstack.LocalFactory - BrowserStack Local Started Successfully.
+11:43:43.836 [Thread-0] INFO  c.browserstack.utils.LogReportingAPI - Visit https://observability.browserstack.com/builds/mddva6w9tmhperezzok87ldxskaafkduhucakozy to view build report, insights, and many more debugging information all at one place!
+
+11:43:49.111 [Thread-0] INFO  c.browserstack.utils.UtilityMethods - View build on BrowserStack dashboard: https://app-automate.browserstack.com/dashboard/v2/builds/bcbae718f58f115104d42243fdf9504c8562468c
+11:43:49.111 [Thread-0] INFO  c.b.config.BrowserStackConfig - INFO
+11:44:04.394 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 4.13.0
+11:44:04.407 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 8.3.0
+11:44:04.701 [main] DEBUG c.b.config.BrowserStackConfig - Cli Config passed - {basedir=D\:\\busniss\\external-tdra-mobile-automation, idea.version=2022.2.2, user.dir=D\:\\busniss\\external-tdra-mobile-automation, localrepository=C\:\\Users\\DELL\\.m2\\repository}
+11:44:04.702 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : D:\busniss\external-tdra-mobile-automation\browserstack.yml
+11:44:04.779 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+11:44:04.790 [main] INFO  c.b.config.BrowserStackConfig - Few SDK features were not activated as platforms object was not defined
+11:44:05.237 [main] INFO  c.browserstack.BrowserStackJavaAgent - Using app: [bs://sample.app]
+11:44:05.238 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to testng
+11:44:08.915 [main] INFO  c.browserstack.BrowserStackJavaAgent - Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+11:44:10.448 [main] INFO  c.browserstack.BrowserStackJavaAgent - Starting BrowserStack Local......
+11:44:18.112 [main] INFO  com.browserstack.LocalFactory - BrowserStack Local Started Successfully.
+11:45:16.982 [Thread-0] INFO  c.browserstack.utils.LogReportingAPI - Visit https://observability.browserstack.com/builds/4l1wjpsuobsdajpdxdwwvwrtxywqfp8kwmqiskcm to view build report, insights, and many more debugging information all at one place!
+
+11:45:22.555 [Thread-0] INFO  c.browserstack.utils.UtilityMethods - View build on BrowserStack dashboard: https://app-automate.browserstack.com/dashboard/v2/builds/84b656aa95d94dead9635d9d88adfd9133f68d62
+11:45:22.556 [Thread-0] INFO  c.b.config.BrowserStackConfig - INFO
+11:51:47.640 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 4.13.0
+11:51:47.652 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 8.3.0
+11:51:48.646 [main] DEBUG c.b.config.BrowserStackConfig - Cli Config passed - {basedir=D\:\\busniss\\external-tdra-mobile-automation, user.dir=D\:\\busniss\\external-tdra-mobile-automation, localrepository=C\:\\Users\\DELL\\.m2\\repository}
+11:51:48.649 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : D:\busniss\external-tdra-mobile-automation\browserstack.yml
+11:51:48.902 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+11:51:48.917 [main] INFO  c.b.config.BrowserStackConfig - Few SDK features were not activated as platforms object was not defined
+11:51:51.195 [main] INFO  c.browserstack.BrowserStackJavaAgent - Using app: [bs://sample.app]
+11:51:51.195 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to testng
+11:51:56.027 [main] INFO  c.browserstack.BrowserStackJavaAgent - Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+11:52:07.423 [main] INFO  c.browserstack.utils.LogReportingAPI - 
+[2024-03-12T09:52:07.422Z][ OBSERVABILITY ] EXCEPTION IN BUILD START EVENT : com.browserstack.testOps.RequestException: timeout
+	at com.browserstack.testOps.RequestUtils.requestToTestOps(Unknown Source)
+	at com.browserstack.testOps.RequestUtils.requestToTestOpsString(Unknown Source)
+	at com.browserstack.testOps.RequestUtils.requestToTestOpsJson(Unknown Source)
+	at com.browserstack.testOps.RequestUtils.launch(Unknown Source)
+	at com.browserstack.testOps.Listener.onStart(Unknown Source)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at com.browserstack.utils.ConditionalInvocationHandler.invoke(Unknown Source)
+	at com.sun.proxy.$Proxy2.onStart(Unknown Source)
+	at com.browserstack.BrowserStackJavaAgent.a(Unknown Source)
+	at com.browserstack.BrowserStackJavaAgent.premain(Unknown Source)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at sun.instrument.InstrumentationImpl.loadClassAndStartAgent(InstrumentationImpl.java:386)
+	at sun.instrument.InstrumentationImpl.loadClassAndCallPremain(InstrumentationImpl.java:401)
+Caused by: java.net.SocketTimeoutException: timeout
+	at okio.Okio$4.newTimeoutException(Unknown Source)
+	at okio.AsyncTimeout.a(Unknown Source)
+	at okio.AsyncTimeout$2.read(Unknown Source)
+	at okio.RealBufferedSource.indexOf(Unknown Source)
+	at okio.RealBufferedSource.readUtf8LineStrict(Unknown Source)
+	at okhttp3.internal.http1.Http1ExchangeCodec.a(Unknown Source)
+	at okhttp3.internal.http1.Http1ExchangeCodec.readResponseHeaders(Unknown Source)
+	at okhttp3.internal.connection.Exchange.readResponseHeaders(Unknown Source)
+	at okhttp3.internal.http.CallServerInterceptor.intercept(Unknown Source)
+	at okhttp3.internal.http.RealInterceptorChain.proceed(Unknown Source)
+	at okhttp3.internal.connection.ConnectInterceptor.intercept(Unknown Source)
+	at okhttp3.internal.http.RealInterceptorChain.proceed(Unknown Source)
+	at okhttp3.internal.http.RealInterceptorChain.proceed(Unknown Source)
+	at okhttp3.internal.cache.CacheInterceptor.intercept(Unknown Source)
+	at okhttp3.internal.http.RealInterceptorChain.proceed(Unknown Source)
+	at okhttp3.internal.http.RealInterceptorChain.proceed(Unknown Source)
+	at okhttp3.internal.http.BridgeInterceptor.intercept(Unknown Source)
+	at okhttp3.internal.http.RealInterceptorChain.proceed(Unknown Source)
+	at okhttp3.internal.http.RetryAndFollowUpInterceptor.intercept(Unknown Source)
+	at okhttp3.internal.http.RealInterceptorChain.proceed(Unknown Source)
+	at okhttp3.internal.http.RealInterceptorChain.proceed(Unknown Source)
+	at okhttp3.RealCall.getResponseWithInterceptorChain(Unknown Source)
+	at okhttp3.RealCall.execute(Unknown Source)
+	... 19 more
+Caused by: java.net.SocketTimeoutException: Read timed out
+	at java.net.SocketInputStream.socketRead0(Native Method)
+	at java.net.SocketInputStream.socketRead(SocketInputStream.java:116)
+	at java.net.SocketInputStream.read(SocketInputStream.java:171)
+	at java.net.SocketInputStream.read(SocketInputStream.java:141)
+	at sun.security.ssl.SSLSocketInputRecord.read(SSLSocketInputRecord.java:475)
+	at sun.security.ssl.SSLSocketInputRecord.readHeader(SSLSocketInputRecord.java:469)
+	at sun.security.ssl.SSLSocketInputRecord.bytesInCompletePacket(SSLSocketInputRecord.java:69)
+	at sun.security.ssl.SSLSocketImpl.readApplicationRecord(SSLSocketImpl.java:1271)
+	at sun.security.ssl.SSLSocketImpl.access$300(SSLSocketImpl.java:76)
+	at sun.security.ssl.SSLSocketImpl$AppInputStream.read(SSLSocketImpl.java:948)
+	at okio.Okio$2.read(Unknown Source)
+	... 40 more
+
+
+11:52:07.424 [main] INFO  c.browserstack.BrowserStackJavaAgent - Starting BrowserStack Local......
+11:52:15.171 [main] INFO  com.browserstack.LocalFactory - BrowserStack Local Started Successfully.
+11:53:24.018 [Thread-1] INFO  c.browserstack.utils.UtilityMethods - View build on BrowserStack dashboard: https://app-automate.browserstack.com/dashboard/v2/builds/7a91cc2baf6a318050b22772da3ea2f360b334de
+11:53:24.019 [Thread-1] INFO  c.b.config.BrowserStackConfig - INFO
+11:53:54.632 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 4.13.0
+11:53:54.638 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 8.3.0
+11:53:54.952 [main] DEBUG c.b.config.BrowserStackConfig - Cli Config passed - {basedir=D\:\\busniss\\external-tdra-mobile-automation, idea.version=2022.2.2, user.dir=D\:\\busniss\\external-tdra-mobile-automation, localrepository=C\:\\Users\\DELL\\.m2\\repository}
+11:53:54.954 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : D:\busniss\external-tdra-mobile-automation\browserstack.yml
+11:53:55.027 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+11:53:55.033 [main] INFO  c.b.config.BrowserStackConfig - Few SDK features were not activated as platforms object was not defined
+11:53:55.419 [main] INFO  c.browserstack.BrowserStackJavaAgent - Using app: [bs://sample.app]
+11:53:55.419 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to testng
+11:53:59.101 [main] INFO  c.browserstack.BrowserStackJavaAgent - Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+11:54:10.065 [main] INFO  c.browserstack.utils.LogReportingAPI - 
+[2024-03-12T09:54:10.065776100Z][ OBSERVABILITY ] EXCEPTION IN BUILD START EVENT : com.browserstack.testOps.RequestException: timeout
+	at com.browserstack.testOps.RequestUtils.requestToTestOps(Unknown Source)
+	at com.browserstack.testOps.RequestUtils.requestToTestOpsString(Unknown Source)
+	at com.browserstack.testOps.RequestUtils.requestToTestOpsJson(Unknown Source)
+	at com.browserstack.testOps.RequestUtils.launch(Unknown Source)
+	at com.browserstack.testOps.Listener.onStart(Unknown Source)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+	at com.browserstack.utils.ConditionalInvocationHandler.invoke(Unknown Source)
+	at jdk.proxy2/jdk.proxy2.$Proxy2.onStart(Unknown Source)
+	at com.browserstack.BrowserStackJavaAgent.a(Unknown Source)
+	at com.browserstack.BrowserStackJavaAgent.premain(Unknown Source)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+	at java.instrument/sun.instrument.InstrumentationImpl.loadClassAndStartAgent(InstrumentationImpl.java:560)
+	at java.instrument/sun.instrument.InstrumentationImpl.loadClassAndCallPremain(InstrumentationImpl.java:572)
+Caused by: java.net.SocketTimeoutException: timeout
+	at okio.Okio$4.newTimeoutException(Unknown Source)
+	at okio.AsyncTimeout.a(Unknown Source)
+	at okio.AsyncTimeout$2.read(Unknown Source)
+	at okio.RealBufferedSource.indexOf(Unknown Source)
+	at okio.RealBufferedSource.readUtf8LineStrict(Unknown Source)
+	at okhttp3.internal.http1.Http1ExchangeCodec.a(Unknown Source)
+	at okhttp3.internal.http1.Http1ExchangeCodec.readResponseHeaders(Unknown Source)
+	at okhttp3.internal.connection.Exchange.readResponseHeaders(Unknown Source)
+	at okhttp3.internal.http.CallServerInterceptor.intercept(Unknown Source)
+	at okhttp3.internal.http.RealInterceptorChain.proceed(Unknown Source)
+	at okhttp3.internal.connection.ConnectInterceptor.intercept(Unknown Source)
+	at okhttp3.internal.http.RealInterceptorChain.proceed(Unknown Source)
+	at okhttp3.internal.http.RealInterceptorChain.proceed(Unknown Source)
+	at okhttp3.internal.cache.CacheInterceptor.intercept(Unknown Source)
+	at okhttp3.internal.http.RealInterceptorChain.proceed(Unknown Source)
+	at okhttp3.internal.http.RealInterceptorChain.proceed(Unknown Source)
+	at okhttp3.internal.http.BridgeInterceptor.intercept(Unknown Source)
+	at okhttp3.internal.http.RealInterceptorChain.proceed(Unknown Source)
+	at okhttp3.internal.http.RetryAndFollowUpInterceptor.intercept(Unknown Source)
+	at okhttp3.internal.http.RealInterceptorChain.proceed(Unknown Source)
+	at okhttp3.internal.http.RealInterceptorChain.proceed(Unknown Source)
+	at okhttp3.RealCall.getResponseWithInterceptorChain(Unknown Source)
+	at okhttp3.RealCall.execute(Unknown Source)
+	... 15 more
+Caused by: java.net.SocketTimeoutException: Read timed out
+	at java.base/sun.nio.ch.NioSocketImpl.timedRead(NioSocketImpl.java:278)
+	at java.base/sun.nio.ch.NioSocketImpl.implRead(NioSocketImpl.java:304)
+	at java.base/sun.nio.ch.NioSocketImpl.read(NioSocketImpl.java:346)
+	at java.base/sun.nio.ch.NioSocketImpl$1.read(NioSocketImpl.java:796)
+	at java.base/java.net.Socket$SocketInputStream.read(Socket.java:1099)
+	at java.base/sun.security.ssl.SSLSocketInputRecord.read(SSLSocketInputRecord.java:489)
+	at java.base/sun.security.ssl.SSLSocketInputRecord.readHeader(SSLSocketInputRecord.java:483)
+	at java.base/sun.security.ssl.SSLSocketInputRecord.bytesInCompletePacket(SSLSocketInputRecord.java:70)
+	at java.base/sun.security.ssl.SSLSocketImpl.readApplicationRecord(SSLSocketImpl.java:1461)
+	at java.base/sun.security.ssl.SSLSocketImpl$AppInputStream.read(SSLSocketImpl.java:1066)
+	at okio.Okio$2.read(Unknown Source)
+	... 36 more
+
+
+11:54:10.066 [main] INFO  c.browserstack.BrowserStackJavaAgent - Starting BrowserStack Local......
+11:54:17.588 [main] INFO  com.browserstack.LocalFactory - BrowserStack Local Started Successfully.
+11:55:22.280 [Thread-0] INFO  c.browserstack.utils.UtilityMethods - View build on BrowserStack dashboard: https://app-automate.browserstack.com/dashboard/v2/builds/4ffa980e43caf63b331aaffb57d61d54c85bc82c
+11:55:22.281 [Thread-0] INFO  c.b.config.BrowserStackConfig - INFO
+11:58:38.768 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 4.13.0
+11:58:38.778 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 8.3.0
+11:58:39.789 [main] DEBUG c.b.config.BrowserStackConfig - Cli Config passed - {basedir=D\:\\busniss\\external-tdra-mobile-automation, user.dir=D\:\\busniss\\external-tdra-mobile-automation, localrepository=C\:\\Users\\DELL\\.m2\\repository}
+11:58:39.791 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : D:\busniss\external-tdra-mobile-automation\browserstack.yml
+11:58:39.976 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+11:58:39.989 [main] INFO  c.b.config.BrowserStackConfig - Few SDK features were not activated as platforms object was not defined
+11:58:42.239 [main] INFO  c.browserstack.BrowserStackJavaAgent - Using app: [bs://sample.app]
+11:58:42.239 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to testng
+11:58:46.846 [main] INFO  c.browserstack.BrowserStackJavaAgent - Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+11:58:48.558 [main] INFO  c.browserstack.BrowserStackJavaAgent - Starting BrowserStack Local......
+11:58:56.588 [main] INFO  com.browserstack.LocalFactory - BrowserStack Local Started Successfully.
+11:59:59.631 [Thread-1] INFO  c.browserstack.utils.LogReportingAPI - Visit https://observability.browserstack.com/builds/hrg0x1kurv4dxqukgkd260kav5h4rgznra8xjbrw to view build report, insights, and many more debugging information all at one place!
+
+12:00:04.974 [Thread-1] INFO  c.browserstack.utils.UtilityMethods - View build on BrowserStack dashboard: https://app-automate.browserstack.com/dashboard/v2/builds/0214ab32acc1696c67682cf9c888b9aa9c970b46
+12:00:04.975 [Thread-1] INFO  c.b.config.BrowserStackConfig - INFO
+12:53:10.576 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 4.13.0
+12:53:10.586 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 8.3.0
+12:53:10.857 [main] DEBUG c.b.config.BrowserStackConfig - Cli Config passed - {basedir=D\:\\busniss\\external-tdra-mobile-automation, idea.version=2022.2.2, user.dir=D\:\\busniss\\external-tdra-mobile-automation, localrepository=C\:\\Users\\DELL\\.m2\\repository}
+12:53:10.858 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : D:\busniss\external-tdra-mobile-automation\browserstack.yml
+12:53:10.926 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+12:53:10.932 [main] INFO  c.b.config.BrowserStackConfig - Few SDK features were not activated as platforms object was not defined
+12:53:11.320 [main] INFO  c.browserstack.BrowserStackJavaAgent - Using app: [bs://sample.app]
+12:53:11.320 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to testng
+12:53:15.343 [main] INFO  c.browserstack.BrowserStackJavaAgent - Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+12:53:16.730 [main] INFO  c.browserstack.BrowserStackJavaAgent - Starting BrowserStack Local......
+12:53:24.451 [main] INFO  com.browserstack.LocalFactory - BrowserStack Local Started Successfully.
+12:54:23.889 [Thread-0] INFO  c.browserstack.utils.LogReportingAPI - Visit https://observability.browserstack.com/builds/4n4zg6ijnnnephcjima33f1k2hdubpnff8xod5jv to view build report, insights, and many more debugging information all at one place!
+
+12:54:29.348 [Thread-0] INFO  c.browserstack.utils.UtilityMethods - View build on BrowserStack dashboard: https://app-automate.browserstack.com/dashboard/v2/builds/c1ad5266ed563c286cbb4dfd0ec8351af5ce8ee7
+12:54:29.348 [Thread-0] INFO  c.b.config.BrowserStackConfig - INFO
+13:08:46.489 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 4.13.0
+13:08:46.500 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 8.3.0
+13:08:46.783 [main] DEBUG c.b.config.BrowserStackConfig - Cli Config passed - {basedir=D\:\\busniss\\external-tdra-mobile-automation, idea.version=2022.2.2, user.dir=D\:\\busniss\\external-tdra-mobile-automation, localrepository=C\:\\Users\\DELL\\.m2\\repository}
+13:08:46.784 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : D:\busniss\external-tdra-mobile-automation\browserstack.yml
+13:08:46.854 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+13:08:46.861 [main] INFO  c.b.config.BrowserStackConfig - Few SDK features were not activated as platforms object was not defined
+13:08:47.289 [main] INFO  c.browserstack.BrowserStackJavaAgent - Using app: [bs://fa395e54be9343e7e4de17921194a91c37ed3513]
+13:08:47.289 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to testing
+13:08:50.833 [main] WARN  c.b.config.BrowserStackConfig - Test Observability could not be enabled because framework detected is testing. We currently support frameworks testng, cucumber-testng & serenity
+13:08:51.346 [main] INFO  c.browserstack.BrowserStackJavaAgent - Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+13:08:52.592 [main] INFO  c.browserstack.BrowserStackJavaAgent - Starting BrowserStack Local......
+13:09:00.152 [main] INFO  com.browserstack.LocalFactory - BrowserStack Local Started Successfully.
+13:09:55.872 [Thread-0] INFO  c.browserstack.utils.UtilityMethods - View build on BrowserStack dashboard: https://app-automate.browserstack.com/dashboard/v2/builds/43ef6cef612b4e220ceb48c9be06514e56a8c569
+13:09:55.872 [Thread-0] INFO  c.b.config.BrowserStackConfig - INFO
