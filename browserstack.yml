@@ -1,6 +1,11 @@
 userName: shehabosama_uBE3Vq
 accessKey: JsFFNerCS5XfWCEdFvhP
 framework: testing
+platforms:
+  - os: Windows
+    osVersion: 10
+    browserName: Chrome
+    browserVersion: 120.0
 app: bs://fa395e54be9343e7e4de17921194a91c37ed3513
 browserstackLocal: true
 buildName: Mobile Automation-build-1
