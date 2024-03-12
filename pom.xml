@@ -106,7 +106,9 @@
                         <suiteXmlFile>src/test/resources/TDRA/sample-local-test.testng.xml</suiteXmlFile>
                     </suiteXmlFiles>
                     <!--suppress UnresolvedMavenProperty -->
-<!--                    <argLine>-javaagent:${com.browserstack:browserstack-java-sdk:jar}</argLine>-->
+                    <argLine>-javaagent:${com.browserstack:browserstack-java-sdk:jar}</argLine>
+                    <forkCount>0</forkCount>
+                    <reuseForks>false</reuseForks>
                 </configuration>
             </plugin>
             <plugin>
