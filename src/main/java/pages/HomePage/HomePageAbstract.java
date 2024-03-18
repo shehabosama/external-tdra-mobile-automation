@@ -23,9 +23,4 @@ public class HomePageAbstract {
 
     }
 
-    public void clickOnSkip() {
-        new WebDriverWait(driver, Duration.ofSeconds(30)).until(ExpectedConditions.elementToBeClickable(SkipBtn)).click();
-
-
-    }
 }

@@ -30,10 +30,7 @@ public class HomeTest extends BaseTest {
     }
     @Test()
     public void ValidateSkipBtnTest()  {
-           Assert.assertTrue(homePage.validationSkip());
+        Assert.assertTrue(homePage.validationSkip());
     }
-    @Test(dependsOnMethods = "ValidateSkipBtnTest")
-    public void test()  {
-        homePage.clickOnSkip();
-    }
+
 }
