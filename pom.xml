@@ -60,12 +60,6 @@
             <artifactId>browserstack-java-sdk</artifactId>
             <version>LATEST</version>
             <scope>compile</scope>
-            <exclusions>
-                <exclusion>
-                    <groupId>org.slf4j</groupId>
-                    <artifactId>slf4j-log4j12</artifactId> <!-- Replace with the appropriate artifactId -->
-                </exclusion>
-            </exclusions>
         </dependency>
         <dependency>
             <groupId>org.apache.maven.plugins</groupId>
