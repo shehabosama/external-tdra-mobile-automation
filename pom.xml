@@ -60,12 +60,6 @@
             <artifactId>browserstack-java-sdk</artifactId>
             <version>LATEST</version>
             <scope>compile</scope>
-            <exclusions>
-                <exclusion>
-                    <groupId>org.slf4j</groupId>
-                    <artifactId>slf4j-jdk14</artifactId>
-                </exclusion>
-            </exclusions>
         </dependency>
         <dependency>
             <groupId>org.apache.maven.plugins</groupId>
@@ -152,7 +146,7 @@
                         <artifactId>maven-surefire-plugin</artifactId>
                         <configuration>
                             <suiteXmlFiles>
-<!--                                <suiteXmlFile>src/test/resources/TDRA/sample-local-test.testng.xml</suiteXmlFile>-->
+                                <!--                                <suiteXmlFile>src/test/resources/TDRA/sample-local-test.testng.xml</suiteXmlFile>-->
                             </suiteXmlFiles>
                         </configuration>
                     </plugin>
