@@ -9,7 +9,7 @@ public class HomePageAndroid extends HomePageAbstract {
     public HomePageAndroid(AppiumDriver driver)
     {
         super(driver);
-        SkipBtn = By.id("continue_as");
+        SkipBtn = By.id("continue_as_guest");
 
     }
 }
