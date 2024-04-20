@@ -22,7 +22,7 @@ public class BaseTest {
 
         if (PropertiesReader.getValue("Platform").equalsIgnoreCase("Android")) {
             MutableCapabilities capabilities = new UiAutomator2Options();
-            capabilities.setCapability("app",System.getProperty("BROWSERSTACK_APP_ID"));
+            capabilities.setCapability("app","bs://4f460a8dcf4e324616b5c3561f4a29dd76e8629b");
             capabilities.setCapability("platformName","android");
             capabilities.setCapability("deviceName","Samsung Galaxy S22 Ultra");
             driver = new AndroidDriver(new URL("http://127.0.0.1:4723/wd/hub"), capabilities);
