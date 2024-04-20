@@ -1,7 +1,7 @@
 userName: shehabosama_uBE3Vq
 accessKey: JsFFNerCS5XfWCEdFvhP
 framework: testing
-app: bs://4f460a8dcf4e324616b5c3561f4a29dd76e8629b
-browserstackLocal: true
+#app: bs://4f460a8dcf4e324616b5c3561f4a29dd76e8629b
+browserstackLocal: false
 buildName: Mobile Automation-build-1
 projectName: Extaranl Mobile Automation
