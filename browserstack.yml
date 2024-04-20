@@ -3,6 +3,6 @@ accessKey: JsFFNerCS5XfWCEdFvhP
 framework: testing
 app: bs://4f460a8dcf4e324616b5c3561f4a29dd76e8629b
 browserstackLocal: true
-buildName: JENKINS_LABEL
-build: JENKINS_LABEL
+buildName: jenkins-ext-tdra-automation-pipeline-125
+build: jenkins-ext-tdra-automation-pipeline-125
 projectName: Extaranl Mobile Automation
