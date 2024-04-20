@@ -1,7 +1,16 @@
+
+#framework: testing
+#app: bs://4f460a8dcf4e324616b5c3561f4a29dd76e8629b
+#browserstackLocal: true
+#projectName: Extaranl Mobile Automation
+
 userName: shehabosama_uBE3Vq
 accessKey: JsFFNerCS5XfWCEdFvhP
-framework: testing
-app: bs://4f460a8dcf4e324616b5c3561f4a29dd76e8629b
-browserstackLocal: true
+platforms:
+  - os: Windows
+    osVersion: 10
+    browserName: Chrome
+    browserVersion: 100.0
 buildName: JENKINS_LABEL
-projectName: Extaranl Mobile Automation
+sessionName: BStack Session Name
+seleniumVersion: 4.0.0
