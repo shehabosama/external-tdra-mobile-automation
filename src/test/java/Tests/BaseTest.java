@@ -22,7 +22,7 @@ public class BaseTest {
 
         if (PropertiesReader.getValue("Platform").equalsIgnoreCase("Android")) {
             MutableCapabilities capabilities = new UiAutomator2Options();
-            capabilities.setCapability("app","bs://4f460a8dcf4e324616b5c3561f4a29dd76e8629b");
+            capabilities.setCapability("app","bs://e12e577da195f961bb8603d3e81bba2f4fb8b05f");
             capabilities.setCapability("build","jenkins-ext-tdra-automation-pipeline-124");
             capabilities.setCapability("platformName","android");
             capabilities.setCapability("deviceName","Samsung Galaxy S22 Ultra");
@@ -38,6 +38,6 @@ public class BaseTest {
 
     @AfterClass(alwaysRun = true)
     public void tearDown() throws Exception {
-        driver.quit();
+        //driver.quit();
     }
 }
