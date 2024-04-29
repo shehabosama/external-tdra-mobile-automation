@@ -48,4 +48,7 @@ public class Task {
         }
         return null;
     }
+    public void aminaTask(){
+        System.out.print(readId());
+    }
 }
