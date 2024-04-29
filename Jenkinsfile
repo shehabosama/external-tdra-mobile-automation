@@ -1,10 +1,10 @@
 pipeline {
     agent any
- tools {
+    tools {
         jdk 'JAVA_HOME'
         // Specify the JDK tool installation by name and version
         maven 'MAVEN_HOME'
-    }
+        }
     stages {
            stage('setup') {
          steps {
@@ -19,9 +19,18 @@ pipeline {
             steps {
                 browserstackAppUploader('D:\\jenkins_test_ci_cd\\app\\release\\app-release.apk') {
                   echo "${env.BROWSERSTACK_APP_ID}"
-}
+                  }
             }
         }
+           stage('Create Text File') {
+                    steps {
+                        // Define the content of the text file
+                        def fileContent = "This is the content of my text file."
+
+                        // Write the content to a text file
+                        writeFile file: 'D:\\appIds\\myFile.txt', text: fileContent
+                    }
+                }
  stage('Checkout') {
             steps {
                 // Checkout the code from the Git repository
