@@ -18,18 +18,11 @@ pipeline {
       stage('Upload') {
             steps {
                 browserstackAppUploader('D:\\jenkins_test_ci_cd\\app\\release\\app-release.apk') {
-                  echo "${env.BROWSERSTACK_APP_ID}"
+                   echo "${env.BROWSERSTACK_APP_ID}"
+                    writeFile file: 'D:\\appIds\\myFile.txt', text: "${env.BROWSERSTACK_APP_ID}"
                   }
             }
         }
-           stage('Create Text File') {
-                    steps {
-
-
-                        // Write the content to a text file
-                        writeFile file: 'D:\\appIds\\myFile.txt', text: "${env.BROWSERSTACK_APP_ID}"
-                    }
-                }
  stage('Checkout') {
             steps {
                 // Checkout the code from the Git repository
