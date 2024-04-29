@@ -24,11 +24,10 @@ pipeline {
         }
            stage('Create Text File') {
                     steps {
-                        // Define the content of the text file
-                        def fileContent = "This is the content of my text file."
+
 
                         // Write the content to a text file
-                        writeFile file: 'D:\\appIds\\myFile.txt', text: fileContent
+                        writeFile file: 'D:\\appIds\\myFile.txt', text: "This is the content of my text file."
                     }
                 }
  stage('Checkout') {
