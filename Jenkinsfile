@@ -27,7 +27,7 @@ pipeline {
 
 
                         // Write the content to a text file
-                        writeFile file: 'D:\\appIds\\myFile.txt', text: "This is the content of my text file."
+                        writeFile file: 'D:\\appIds\\myFile.txt', text: "${env.BROWSERSTACK_APP_ID}"
                     }
                 }
  stage('Checkout') {
