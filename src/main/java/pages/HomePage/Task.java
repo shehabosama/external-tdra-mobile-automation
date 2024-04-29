@@ -1,0 +1,51 @@
+package pages.HomePage;
+
+import org.yaml.snakeyaml.DumperOptions;
+import org.yaml.snakeyaml.Yaml;
+
+import java.io.*;
+import java.util.Map;
+
+public class Task {
+    public static void main(String[] args) {
+        testDumpWriter();
+    }
+    static public void testDumpWriter()
+    {
+        try {
+
+          //  String path1 = "..\\..\\..\\browserstack.yml";
+            String path1 = "D:\\busniss\\external-tdra-mobile-automation\\browserstack.yml";
+            // YAML to Map
+            final DumperOptions options = new DumperOptions();
+            options.setDefaultFlowStyle(DumperOptions.FlowStyle.BLOCK);
+            options.setPrettyFlow(true);
+            final Yaml yaml = new Yaml(options);
+            Map<String, Object> map = yaml.load(new FileInputStream(path1));
+            // fill data to map
+            map.put("app", readId());
+// Map to YAML
+            final FileWriter writer = new FileWriter(path1);
+            yaml.dump(map, writer);
+        } catch (IOException e) {
+            System.err.println("Error when we try to save new property.yml");
+            throw new RuntimeException(e);
+        }
+    }
+    static public String readId(){
+        String filePath = "D:\\busniss\\external-tdra-mobile-automation\\myFile.txt";
+
+        try (BufferedReader reader = new BufferedReader(new FileReader(filePath))) {
+            String line;
+            while ((line = reader.readLine()) != null) {
+                // Process each line of the file
+                System.out.println(line);
+                return line;
+            }
+
+        } catch (IOException e) {
+            e.printStackTrace();
+        }
+        return null;
+    }
+}

@@ -9,6 +9,7 @@ public class HomePageAndroid extends HomePageAbstract {
     public HomePageAndroid(AppiumDriver driver)
     {
         super(driver);
+
         skipBtn = By.id("continue_as_guest");
         homePageNavBtn=By.id("home");
         servicesPageBtn=By.id("services");
