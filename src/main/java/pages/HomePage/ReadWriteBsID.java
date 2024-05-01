@@ -34,7 +34,7 @@ public class ReadWriteBsID {
         }
     }
     static public String readBS_ID(){
-        String filePath = "D:\\busniss\\external-tdra-mobile-automation\\myFile.txt";
+        String filePath = "D:\\busniss\\external-tdra-mobile-automation\\browserstackID.txt";
 
         try (BufferedReader reader = new BufferedReader(new FileReader(filePath))) {
             String line;

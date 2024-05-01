@@ -19,7 +19,7 @@ pipeline {
             steps {
                 browserstackAppUploader('D:\\jenkins_test_ci_cd\\app\\release\\app-release.apk') {
                    echo "${env.BROWSERSTACK_APP_ID}"
-                    writeFile file: 'D:\\appIds\\myFile.txt', text: "${env.BROWSERSTACK_APP_ID}"
+                    writeFile file: 'D:\\busniss\\external-tdra-mobile-automation\\browserstackID.txt', text: "${env.BROWSERSTACK_APP_ID}"
                   }
             }
         }
