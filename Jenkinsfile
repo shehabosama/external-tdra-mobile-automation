@@ -43,19 +43,19 @@ pipeline {
             }
 
         }
-//         stage('Build') {
-//             steps {
-//                 // Use Gradle to build the APK
-//                 //  cd C:\\ProgramData\\Jenkins\\.jenkins\\workspace\\automation_ci_cd
-//                 script {
-//                     bat '''
-//                 mvn test
-//             '''
-//                 }
-//
-//             }
+        stage('Build') {
+            steps {
+                // Use Gradle to build the APK
+                //  cd C:\\ProgramData\\Jenkins\\.jenkins\\workspace\\automation_ci_cd
+                script {
+                    bat '''
+                mvn test
+            '''
+                }
 
-        //}
+            }
+
+        }
 
 
     }
