@@ -15,20 +15,21 @@ pipeline {
              browserStackReportPublisher 'automate'
          }
       }
-      stage('Upload') {
-            steps {
-                browserstackAppUploader('D:\\busniss\\ext-app-android\\app\\releaseQA\\releaseQA-9.6.0.apk') {
-                   echo "${env.BROWSERSTACK_APP_ID}"
-                    writeFile file: 'D:\\busniss\\external-tdra-mobile-automation\\browserstackID.txt', text: "${env.BROWSERSTACK_APP_ID}"
-                  }
-            }
-        }
+
  stage('Checkout') {
             steps {
                 // Checkout the code from the Git repository
                 git branch: 'master', url: 'https://github.com/shehabosama/external-tdra-mobile-automation.git'
             }
         }
+          stage('Upload') {
+                    steps {
+                        browserstackAppUploader('D:\\busniss\\ext-app-android\\app\\releaseQA\\releaseQA-9.6.0.apk') {
+                           echo "${env.BROWSERSTACK_APP_ID}"
+                            writeFile file: 'D:\\busniss\\external-tdra-mobile-automation\\browserstackID.txt', text: "${env.BROWSERSTACK_APP_ID}"
+                          }
+                    }
+                }
  stage('Compile and update browserstack File') {
             steps {
                 // Use Gradle to build the APK
