@@ -29,7 +29,19 @@ pipeline {
                 git branch: 'master', url: 'https://github.com/shehabosama/external-tdra-mobile-automation.git'
             }
         }
+ stage('Compile and update browserstack File') {
+            steps {
+                // Use Gradle to build the APK
+                //  cd C:\\ProgramData\\Jenkins\\.jenkins\\workspace\\automation_ci_cd
+                script {
+                    bat '''
+                mvn compile
+            '''
+                }
 
+            }
+
+        }
         stage('Build') {
             steps {
                 // Use Gradle to build the APK
