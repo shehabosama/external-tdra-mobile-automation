@@ -117,6 +117,25 @@
                     <target>1.8</target>
                 </configuration>
             </plugin>
+            <plugin>
+                <groupId>org.codehaus.mojo</groupId>
+                <artifactId>exec-maven-plugin</artifactId>
+                <version>3.0.0</version>
+                <executions>
+                    <execution>
+                        <id>custom-task</id>
+                        <phase>compile</phase> <!-- Define the phase to bind the task -->
+                        <goals>
+                            <goal>java</goal> <!-- Use the java goal to execute a Java class -->
+                        </goals>
+                        <configuration>
+                            <mainClass>pages.HomePage.ReadWriteBsID</mainClass> <!-- Specify the fully qualified name of the class -->
+                            <classpathScope>compile</classpathScope> <!-- Use the compile classpath -->
+                        </configuration>
+                    </execution>
+                </executions>
+            </plugin>
+
         </plugins>
     </build>
 

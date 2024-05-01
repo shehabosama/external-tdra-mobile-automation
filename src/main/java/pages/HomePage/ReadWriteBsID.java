@@ -6,11 +6,12 @@ import org.yaml.snakeyaml.Yaml;
 import java.io.*;
 import java.util.Map;
 
-public class Task {
+public class ReadWriteBsID {
+
     public static void main(String[] args) {
-        testDumpWriter();
+        writeTheBS_ID();
     }
-    static public void testDumpWriter()
+    static public void writeTheBS_ID()
     {
         try {
 
@@ -23,7 +24,7 @@ public class Task {
             final Yaml yaml = new Yaml(options);
             Map<String, Object> map = yaml.load(new FileInputStream(path1));
             // fill data to map
-            map.put("app", readId());
+            map.put("app", readBS_ID());
 // Map to YAML
             final FileWriter writer = new FileWriter(path1);
             yaml.dump(map, writer);
@@ -32,7 +33,7 @@ public class Task {
             throw new RuntimeException(e);
         }
     }
-    static public String readId(){
+    static public String readBS_ID(){
         String filePath = "D:\\busniss\\external-tdra-mobile-automation\\myFile.txt";
 
         try (BufferedReader reader = new BufferedReader(new FileReader(filePath))) {
@@ -47,8 +48,5 @@ public class Task {
             e.printStackTrace();
         }
         return null;
-    }
-    public void aminaTask(){
-        System.out.print(readId());
     }
 }
