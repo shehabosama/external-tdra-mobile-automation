@@ -16,7 +16,7 @@ public class ReadWriteBsID {
         try {
 
           //  String path1 = "..\\..\\..\\browserstack.yml";
-            String path1 = "D:\\busniss\\external-tdra-mobile-automation\\browserstack.yml";
+            String path1 = "C:\\ProgramData\\Jenkins\\.jenkins\\workspace\\ext-tdra-automation-pipeline\\browserstack.yml";
             // YAML to Map
             final DumperOptions options = new DumperOptions();
             options.setDefaultFlowStyle(DumperOptions.FlowStyle.BLOCK);
